@@ -28,7 +28,7 @@ const options = {
       },
       servers: [
         {
-              url: "http://http://localhost:8080"
+              url: "https://job-ready.onrender.com"
         },
       ],
     },
